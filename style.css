@@ -1,0 +1,15 @@
+*{
+    color: rgb(108, 110, 110);
+}
+
+#input{
+    border: 4px solid black;
+}
+.buttons{
+    .btn{
+        margin-bottom: 8px;
+        min-width: 45%;
+        &:last-child{
+            margin-bottom: 0};
+    }
+}
